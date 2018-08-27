@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is my first change
+=======
+This should not merge
+>>>>>>> 869802d3c1017415d970ba8e43bdff64cf583073
